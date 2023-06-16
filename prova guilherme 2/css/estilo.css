@@ -1,0 +1,161 @@
+
+html{
+    font: 1em sans-serif;
+}
+
+.barra{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    padding: 1rem;
+
+
+}
+.cor1{
+    color: red;
+    font-size: 3rem;
+
+}
+
+.cor2{
+    color: yellow;
+    font-size: 3rem;
+
+}
+.cor3{
+    color:green;
+    font-size: 3rem;
+
+}
+.c123{
+    margin-left: -7px;
+}
+.via{
+    font-size: 1.3rem;
+    color: black;
+
+}
+ .ululu{
+color: black;
+float: right;
+margin-top: -35px;
+margin-right: 200px;
+font-size: 20px;
+word-spacing: 30px;
+}
+form{
+    background-image: url(../img/barcos.webp);
+    color: black;
+    padding: 141px;
+    align-items: center;
+    background-size: cover;
+
+}
+.butao{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+}
+.blocos{
+    color: white;
+    text-shadow: 2px 4px 6px #000;
+    width: 100%;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin: 100px auto 0 auto;
+}
+.CID{
+    padding: 2em;
+    border-radius: 5%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.RJ{
+    background-image: url(../img/rio.webp);
+}
+.BO{
+    background-image: url(../img/bonito.webp);
+}
+.SP{
+    background-image: url(../img/sao-paulo.webp);
+}
+.FOZ{
+    background-image: url(../img/foz.webp);
+
+}
+.MA{
+    background-image: url(../img/maceio.webp);
+}
+.SA{
+    background-image: url(../img/salvador.webp);
+}
+.FO{
+    background-image: url(../img/fortaleza.webp);
+}
+.BH{background-image: url(../img/belo-horizonte.webp);
+}
+h1{
+    font-size: larger;
+    margin-bottom: 2rem;
+}
+h2{
+    font-size: 2em;
+    margin-bottom: 2rem;
+}
+p{
+    padding: 5px;
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    border-radius: 15px;
+    margin: 10px;
+}
+.pin{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+.p1{
+font-size: large;
+}
+.in{
+   margin: 10px;
+}
+.in1{
+    margin-bottom: 10px;
+}
+
+input{
+    padding: 4px;
+    background-color: white;
+    font-size: 16px;
+    background-size: cover;
+}
+.des{
+   font-size: 20px;
+   margin-top: 10px;
+   margin-bottom: -70px;
+   margin-left: 200px;
+}
+button{
+    box-shadow: 1px 2px 4px #000;
+    font-size: 12px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 100px;  
+    cursor: pointer;
+}
+.espaco{
+    margin-left: 150px;
+    margin-right: 150px;
+}
